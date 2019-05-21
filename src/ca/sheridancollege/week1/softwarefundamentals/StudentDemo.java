@@ -30,6 +30,7 @@ public class StudentDemo {
 
     /**
      * @param name the name to set
+     green blue
      */
     public void setName(String givenName) {
         name = givenName;
